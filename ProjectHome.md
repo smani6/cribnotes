@@ -1,0 +1,1 @@
+This project was meant more for a personal case than anything else. The main desire was to make an application for Android that was similar in functionality to the basic example Notepad app but specifically allowed importing/exporting of data to and from it's internal database. And obviously, other features like periodic database exports for backups get thrown in as time goes on.
